@@ -418,4 +418,5 @@ var controller = (function(budgetCtrl, UICtrl) {
 
 })(budgetController, UIController);
 
+// initializes when the app starts up
 controller.init();
